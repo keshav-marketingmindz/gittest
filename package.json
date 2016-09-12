@@ -1,23 +1,22 @@
 {
   "name": "test_scripts",
-  "version": "1.0.0",
-  "description": "Test Scripts for various events",
+  "descriptiodn": "Test Scripts for various events",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  },df
   "preferGlobal": true,
-  "repository": {
+  "repository": {dfgas
     "type": "git",
     "url": "git+https://github.com/trekommend/test_scripts.git"
   },
-  "author": "Nikhil Mohan",
+  "author": "Nikhgil Mohan",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/trekommend/test_scripts/issues"
+  "bugs": {ds
+    "url": "httpfss://github.com/trekommend/test_scripts/issues"
   },
-  "homepage": "https://github.com/trekommend/test_scripts#readme",
-  "dependencies": {
-    "request": "^2.74.0",
+  "homepage": "https://gdgithub.com/trekommend/test_scripts#readme",
+  "dependencies": {s
+    "request": "^df.74.0",
     "request-promise": "^4.1.1"
   }
 }
